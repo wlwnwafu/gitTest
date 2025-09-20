@@ -6,5 +6,5 @@
 public class B {
 
 
-    sss22222
+    sss
 }
