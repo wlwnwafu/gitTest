@@ -1,2 +1,2 @@
 # gitTest
-测试git功能dev1
+测试git功能
