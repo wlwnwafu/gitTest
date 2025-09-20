@@ -4,5 +4,4 @@
  * @description:
  */
 public class B {
-
 }
